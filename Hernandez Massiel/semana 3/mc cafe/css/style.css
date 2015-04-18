@@ -1,0 +1,93 @@
+.wrapper {
+	width: 990px;
+	margin:auto;
+}
+/* massiel hernandez*/
+
+header {
+    width: 990px;
+	height: 253px;
+	background: url(../images/header.jpg);
+	display: block;
+	background-repeat: no-repeat;
+}
+
+h1 {
+	width: 350px;
+	height: 170px;
+	position: absolute;
+	top: 50px;
+	left: 450px;
+	background-repeat: no-repeat;
+}
+
+nav {
+	background-color: #230b03;
+	height: 35px;
+	text-align: center;
+}
+
+nav ul li { 
+	font-size: 14px;
+	font-family: Helvetica,Arial; 
+	display: inline-block;
+	color: #ffffff;
+	padding: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+a:hover {
+	font-size: 14px;
+	text-decoration: none;
+	background-color: #8a6145;
+	color:#230b03;
+}
+
+.primero {
+	margin-left: 120px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.segundo {
+	margin-left: 40px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+article {
+	width: 340px;
+	float: left;
+}
+
+article h2 {
+    font-size: 24px;
+	font-family: Helvetica,Arial; 
+	font-weight: bold;
+}
+
+article p {
+	font-size: 12px;
+	font-family: Arial, Helvetica; 
+	line-height: 17px;
+	margin-top: 12px;
+	text-align: justify;
+}
+
+footer {
+	background-color: #230b03;
+	height: 35px;
+	clear: both;
+}
+
+footer p{
+	padding-top: 10px;
+	padding-left: 27px;
+	font-size: 12px;
+	font-family: Arial, Helvetica; 
+	color: #ffffff;
+}
